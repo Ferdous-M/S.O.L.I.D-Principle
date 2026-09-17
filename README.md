@@ -121,7 +121,7 @@ Each example demonstrates a specific design problem and how applying the corresp
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 This project was created to develop a practical understanding of:
 
