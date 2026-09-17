@@ -38,7 +38,3 @@ SRP encourages separating different responsibilities into different classes inst
 - Easier testing
 - Reduced coupling
 
-📁 Implementation:
-
-```text
-src/main/java/com/javatechie/solid/srp
